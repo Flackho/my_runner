@@ -1,0 +1,5 @@
+0 = aucun obstacle
+1 = obstacle
+2 = fin de la map
+hitbox un peu cassé
+peut créer ses propres maps, ne pas mettre plusieur 1 de suite.
